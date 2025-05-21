@@ -1,167 +1,141 @@
+# Java Programs Repository Outputs
 
-### 1a. ListOperations :
-ArrayList Demo: [Exp1-ListInterface/ArrayList.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/ArrayList.png)
 
-LinkedList Demo: [Exp1-ListInterface/LinkedList.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/LinkedList.png)
-
----
-### 1b.  ArrayList programs
-
-1. Searching Colors
-   [Exp1-ListInterface/Colosearch.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/Colorsearch.png)
-
-2. Remove Specific Color
-   [Exp1-ListInterface/RemoveColors.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/RemoveColors.png)
-   
-4. Sort colors
-   [Exp1-ListInterface/SortColors.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/SortColors.png)
-
-5. SubList of colors
-   [Exp1-ListInterface/SubListColors.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/SubListColors.png)
-
-6. Delete nth color
-   [Exp1-ListInterface/delete.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/delete.png)
 
 ---
 
-### 1c. LinkedList Programs
+## 📌 Program 1: List Interface
 
-1. Iterating at Specific Position
-   [Exp1-ListInterface/IterateFromSecond.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/IterateFromSecond.png)
+### 1. ListInterfaceDemo
+- **ListInterfaceDemo Output =>**(https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-a_ListInterfaceDemo/program_1_A_output.jpg)
 
-2. Reverse iteration
-   [Exp1-ListInterface/ReverseIterate.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/ReverseIterate.png)
+### 2. Array_List  
+- **ColorSearch Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-b_Array_List/arraylist1.jpg)  
+- **RemoveColors Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-b_Array_List/arraylist2.jpg)  
+- **SortColors Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-b_Array_List/arraylist3.jpg)  
+- **SubListExample Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-b_Array_List/arraylist4.jpg)  
+- **RemoveNthElement Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-b_Array_List/arraylist5.jpg) 
 
-3. Insert at specific position
-   [Exp1-ListInterface/InsertAtEnd.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/InsertAtEnd.png)
 
-4. Display Positions
-   [Exp1-ListInterface/DisplayWithPositions.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/DisplayWithPositions.png)
-
-5. Swap two elements
-   [Exp1-ListInterface/SwapElements.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/SwapElements.png)
-
----
-### 2a. String Operations
-
-[Exp2-StringOperations/StringOperationsDemo.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp2-StringOperations/StringOperationsDemo.png)
-
----
-### 2b. Performance Test on  StringBuffer and StringBuilder
-
-[Exp2-StringOperations/StringPerformanceTest.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp2-StringOperations/StringPerformanceTest.png)
-
----
-### 3a. String Operations Demo
-
-[Exp3-StringHandling/StringOperationsDemo1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp3-StringHandling/StringOperationsDemo1.png)
-
----
-### 3b. String Exercise progams
-
-[Exp3-StringHandling/StringExcercises3b.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp3-StringHandling/StringExcercises3b.png)
-
-### 3c. String Exercise progams
-
-[Exp3-StringHandling/StringExcercises3c.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp3-StringHandling/StringExcercises3c.png)
+### 3. Linked_List  
+- **IterateFromSecond Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_6.jpg)  
+- **ReverseIteration Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_7.jpg)  
+- **InsertAtEnd Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_8.jpg)  
+- **DisplayWithPositions Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_9.jpg)  
+- **SwapElements Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_10.jpg)
 
 ---
 
-### 4a. Basic hello program of Swing
-[Exp4-Swings1/SwingExe1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp4-Swings1/SwingExe1.png)
+## 📌 Program 2: String Operations
 
-### 4b. Swing Event Handling using JButton.
+### 4. StringOperationDemo  
+- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-2-String_operation/2a-StringOperationsDemo/2a_output.png)  
 
-[Exp4-Swings1/CountryButtonExample.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp4-Swings1/CountryButtonExample.png)
+### 5. PerformanceTest  
+- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-2-String_operation/2a-StringOperationsDemo/2b_output.png)
 
-### 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour Glass  is pressed”
-
-[Exp4-Swings1/clock.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp4-Swings1/clock.png)
 
 ---
 
-### 5a. CountryList
+## 📌 Program 3: Advanced String Tasks
 
-[Exp5-Swings2/CountryListConsole.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp5-Swings2/CountryListConsole.png)
+### 6. StringOperation_A  
+- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3a-StringOperations/3a_output.png)
 
-### 5b.  Tabbed Pane Example
+### 7. StringOperation_B  
+- **NullOrEmptyCheck Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3b-String_Exercise/3bq1_output.png) 
+- **SubStringCounter Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3b-String_Exercise/3bq2_output.png) 
+- **ReverseString Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3b-String_Exercise/3bq3_output.png)  
+- **PalindromeCheck Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3b-String_Exercise/3bq4_output.png) 
+- **RemoveWhiteSpace Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3b-String_Exercise/3bq5_output.png)   
 
-[Exp5-Swings2/ColorTabbedPane.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp5-Swings2/ColorTabbedPane.png)
+### 8. StringExercise_C  
+- **CapitalizeWords Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq1_output.png)  
+- **Truncate Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq2_output.png)  
+- **isNumeric Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq3_output.png) 
+- **GenerateRandomString Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq4_output.png) 
+- **CountWords Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq5_output.png) 
+---
 
-### 5c. CountryCapitalList
-
-[Exp5-Swings2/JListExample2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp5-Swings2/CountryCapitalList.png)
-
-### 5d.  Tabbed Pane Exercise 
-
-[Exp5-Swings2/CTP1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp5-Swings2/CTP1.png)
+## 📌 Program 4: Swing GUI
+### 9. SwingExample
+- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-4-Swings/4a_SwingExample/4a_output.png)
+### 10. ButtonExample
+- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-4-Swings/4b_ButtonExample/4b_output.png)
+### 11.ClockHourglassDemo  
+- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-4-Swings/4c_ClockHourglassDemo/4c_output.png)
 
 ---
 
-### 6a. Factorial Servlet
+## 📌 Program 5: GUI Components
 
-[Exp6-Servlets/FactorialServlet/fact.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/FactorialServlet.java)
+### 12. JListExample  
+- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-5-Swings/5a-JListExample/5a_output.png)
 
-### 6b. CookieServlet Demo
+### 13. TabbedPaneExample  
+- **Output =>** ( 
 
-[Exp6-Servlets/CookieServlet/CookieServlet1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/CookieServlet1.png)
-[Exp6-Servlets/CookieServlet/CookieServlet2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/CookieServlet2.png)
+### 14. CountryCapitalList  
+- **Output =>**   
 
-### 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
+### 15. ColorTabbedPane  
+- **Output =>** 
 
-[Exp6-Servlets/PrimeServlet/Prime.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/Prime.png)
-[Exp6-Servlets/PrimeServlet/Prime1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/Prime1.png)
 
 ---
 
-### 7a. Session Management using JSP
+## 📌 Program 6: Servlets
 
-[Exp7-JSPSessionManagement/Session1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/Session1.png)
-[Exp7-JSPSessionManagement/Session2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/Session1.png)
-[Exp7-JSPSessionManagement/Session3.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/Session1.png)
+### 16. FactorialServlet  
+- **Output =>** 
+### 17. CookieServlet  
+- **Output =>** 
 
-### 7b. Cookie Management using JSP
+### 18. PrimeServlet  
+- **Output =>** 
 
-[Exp7-JSPCookieManagement/CookieDemo.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/CookieDemo.png)
+
+---
+## 📌 Program 7: Session and Cookie Management
+
+### 19. Session Management  
+- **Output =>** 
+
+### 20. Cookie Management  
+- **Output =>**  
 
 ---
 
-### 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it \[Create a table coffee with fields ( id,coffee\_name,price)] using HTML and JSP to get the fields and display the results respectively
+## 📌 Program 8: Database - Coffee & Employee
 
-Exp8-SQL+JDBC/8A/8a.png
+### MYSQL_Setup = 
 
-### 8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product  in the table with its id. \[Create a table coffee with fields ( id,coffee\_name,price)] using HTML and JSP to get the fields and display the results respectively
+### 21. Insert_Coffee  
+- **Output =>**   
 
-Exp8-SQL+JDBC/8B/8b.png
+### 22. Update_Coffee  
+- **Output =>** 
 
-### 8c. Develop a JDBC project using JSP to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the  TABLE Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
+### 23. append_Employee  
+- **Output =>** 
 
-Exp8-SQL+JDBC/8C/JDBC1.png
-Exp8-SQL+JDBC/8C/JDBC1.1.png
-
-
-### 8d. Develop a JDBC project using JDBC to update  the fields empno,  empname and basicsalary into the table Emp of the database Employee  using HTML and JSP to get the fields and display the results respectively
-
-Exp8-SQL+JDBC/8D/JDBC2.png
-Exp8-SQL+JDBC/8D/JDBC2.1.png
-Exp8-SQL+JDBC/8D/JDBC2.2.png
+### 24. Update_Employee  
+- **Output =>** 
 
 ---
 
-### 9a.  Read all the existing records from the table coffee which is from the database test and delete an existing coffee product  from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
+## 📌 Program 9: Database Operations
 
-Exp8-SQL+JDBC/9A/9a.png
+### MYSQL_Setup = 
 
-### 9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’  in the table using HTML and JSP to get the field and display the results respectively
+### 25. Delete_Coffee  
+- **Output =>** 
 
-Exp9-SQL+JDBC/9B/9b.png
+### 26. Query_Coffee_Starts_with_D  
+- **Output =>**  
 
-### 9c. Develop a JDBC project using MySQL to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the table Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
+### 27. append_Report  
+- **Output =>** 
 
-Exp9-SQL+JDBC/9C/JDBC3.png
-Exp9-SQL+JDBC/9C/JDBC3.1.png
-
-### 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘ID’   through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
-
-Exp9-SQL+JDBC/9D/JDBC4.png
-Exp9-SQL+JDBC/9D/JDBC4.1.png
+### 28. Delete_Employee  
+- **Output =>** 
